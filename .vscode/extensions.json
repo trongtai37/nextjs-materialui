@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "coenraads.bracket-pair-colorizer",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode",
+    "styled-components.vscode-styled-components",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
